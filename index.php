@@ -13,8 +13,8 @@
 <input type="file" id="fileinput"/>
 <input type='button' id='btnLoad' value='Load' onclick='handleFileSelect();'>
 <div id="editor"></div>
-<form action="process.php" method="POST">
-<button type="submit" >ja bc</button>
+<form action="db.php" method="POST">
+<button type="submit" >ja bc fff</button>
 </form>
 <script src="./js/main.js"></script>
 </body>
