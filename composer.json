@@ -1,0 +1,16 @@
+{
+  "name": "php-student-record",
+  "description": "My Project",
+  "keywords": ["php", "framework", "simple"],
+  "type": "project",
+  "require": {
+
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vibhor Goel",
+      "email": "vibhor.g8496@gmail.com"
+    }
+  ]
+}
